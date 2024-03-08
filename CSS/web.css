@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    font-family: Maiandra GD;
+    font-size: 50px;
+    color: blue;
+}
+#usman{
+    color: red;
+}
+#demo{
+    color: purple;
+}
+.container{
+    /* border: 3px solid blue; */
+    border-left: 10px solid red;
+    border-right: 10px solid blue;
+    border-top: 15px solid purple;
+    border-bottom: 12px solid green;
+}
+.container img{
+    width: 600px;
+    height: 300px;
+    border: 4px solid blue;
+    border-radius: 10px;
+}
+.container a{
+    font-size: 30px;
+    font-family: Maiandra GD;
+    text-decoration: none;
+    margin: 30px;
+}
